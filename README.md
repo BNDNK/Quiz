@@ -12,7 +12,7 @@ The score is at top. If you get it wrong, your score doesn't change, if you get 
 #### Get all items
 
 ```http
-  GET /api/items
+  
 ```
 
 | Parameter | Type     | Description                |
@@ -22,7 +22,7 @@ The score is at top. If you get it wrong, your score doesn't change, if you get 
 #### Get item
 
 ```http
-  GET /api/items/${id}
+
 ```
 
 | Parameter | Type     | Description                       |
