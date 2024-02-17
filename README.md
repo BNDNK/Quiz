@@ -47,6 +47,10 @@ Outputs random knoweledge questions
 
 
 
+## Credits
+[BNDNK] There was no tutor.
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
